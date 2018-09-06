@@ -1,0 +1,3 @@
+rootProject.name = 'proJawad'
+
+include ':app'
